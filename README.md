@@ -49,4 +49,4 @@ When both sensors detect similar light intensity, the servo stops.
 
 ## Wokwi Simulation Link
 
-Paste your Wokwi project link here.
+https://wokwi.com/projects/465546999256296449
